@@ -1,0 +1,241 @@
+text,emotion
+"I'm so excited about this amazing opportunity!",Happy
+"What a beautiful sunny day, feeling fantastic!",Happy
+"Just got the best news ever, I'm thrilled!",Happy
+"Love spending time with my family and friends",Happy
+"This is the best day of my life!",Happy
+"I feel so grateful and blessed today",Happy
+"Amazing performance, I'm so proud!",Happy
+"Everything is going perfectly, I'm delighted!",Happy
+"Celebrating this wonderful achievement with joy!",Happy
+"Feeling incredibly happy and content right now",Happy
+"What a fantastic surprise, I'm overjoyed!",Happy
+"Life is beautiful and I'm loving every moment",Happy
+"Got promoted today, feeling on top of the world!",Happy
+"Just had the most wonderful vacation ever",Happy
+"My dreams are finally coming true, so happy!",Happy
+"Spending quality time with loved ones brings me joy",Happy
+"Successfully completed my project, feeling great!",Happy
+"This positive energy is exactly what I needed",Happy
+"Laughing so much my cheeks hurt, pure happiness",Happy
+"Found the perfect solution, I'm thrilled beyond words",Happy
+"Wedding day was absolutely magical and perfect",Happy
+"My baby took their first steps today!",Happy
+"Just received my acceptance letter to university",Happy
+"Won the lottery, I can't contain my excitement!",Happy
+"Reunited with my best friend after years",Happy
+"The sunset tonight is breathtakingly beautiful",Happy
+"My favorite team won the championship!",Happy
+"Just finished reading an inspiring book",Happy
+"Received an unexpected compliment that made my day",Happy
+"Dancing all night at this incredible party",Happy
+"My garden is blooming beautifully this spring",Happy
+"Just bought my dream house, I'm ecstatic!",Happy
+"Had the most delicious meal at a new restaurant",Happy
+"My children graduated with honors today",Happy
+"Feeling blessed to have such wonderful friends",Happy
+"Just learned I'm going to be a grandparent!",Happy
+"The music concert was absolutely phenomenal",Happy
+"Achieved my fitness goals after months of hard work",Happy
+"Waking up refreshed after a perfect night's sleep",Happy
+"Found my lost cat safe and sound!",Happy
+"I'm feeling really down today",Sad
+"This is such a disappointing situation",Sad
+"I miss my old friends so much",Sad
+"Feeling lonely and isolated lately",Sad
+"Nothing seems to be going right",Sad
+"I'm having a really tough time",Sad
+"This news made me feel so heartbroken",Sad
+"I feel empty and lost right now",Sad
+"Tears are flowing down my face uncontrollably",Sad
+"Everything feels hopeless and dark today",Sad
+"Lost my job and don't know what to do",Sad
+"My pet passed away, I'm devastated",Sad
+"Relationship ended badly, feeling broken inside",Sad
+"Failed the exam despite studying so hard",Sad
+"Nobody understands what I'm going through",Sad
+"Feeling overwhelmed by all these problems",Sad
+"Can't stop crying, everything hurts so much",Sad
+"Disappointed by people I trusted most",Sad
+"This rejection letter crushed my spirits",Sad
+"Weather is gloomy and so is my mood",Sad
+"Lost my grandmother last week, still grieving",Sad
+"My best friend moved away to another country",Sad
+"Diagnosed with a serious illness yesterday",Sad
+"My dreams have been shattered completely",Sad
+"Feeling worthless and unwanted by everyone",Sad
+"The divorce papers arrived today, I'm devastated",Sad
+"My childhood home is being demolished",Sad
+"Can't afford to pay the bills this month",Sad
+"Nobody showed up to my birthday party",Sad
+"My artwork was rejected from the gallery",Sad
+"Feeling like a failure in everything I do",Sad
+"Lost all my savings in a bad investment",Sad
+"My mentor passed away unexpectedly",Sad
+"The surgery didn't go as planned",Sad
+"Watching my parents age makes me so sad",Sad
+"My favorite restaurant closed down permanently",Sad
+"Feeling disconnected from everyone around me",Sad
+"The rainy weather matches my melancholy mood",Sad
+"My plants are dying despite my best efforts",Sad
+"Remembering happier times makes me cry",Sad
+"This is absolutely infuriating!",Angry
+"I can't believe how unfair this is",Angry
+"I'm so frustrated with this situation",Angry
+"This makes my blood boil!",Angry
+"I'm outraged by this behavior",Angry
+"This is completely unacceptable!",Angry
+"I'm fed up with all these problems",Angry
+"This injustice makes me furious!",Angry
+"How dare they treat me like this!",Angry
+"This disrespect is making me livid",Angry
+"I've had enough of these stupid rules",Angry
+"Their incompetence is driving me crazy",Angry
+"This traffic jam is absolutely maddening",Angry
+"Can't believe they lied to my face",Angry
+"This corrupt system makes me sick",Angry
+"I'm so angry I can barely think straight",Angry
+"They crossed the line this time, I'm furious",Angry
+"This betrayal has made me absolutely livid",Angry
+"Their arrogance is beyond infuriating",Angry
+"I'm boiling with rage over this decision",Angry
+"The customer service is absolutely terrible",Angry
+"They keep ignoring my legitimate complaints",Angry
+"This discrimination is completely unacceptable",Angry
+"I'm furious about the broken promises",Angry
+"Their rude behavior is absolutely disgusting",Angry
+"This blatant disregard for rules infuriates me",Angry
+"I'm sick of being treated like garbage",Angry
+"This unfair treatment makes me see red",Angry
+"They're taking advantage of innocent people",Angry
+"This deliberate sabotage is infuriating",Angry
+"I'm outraged by their complete lack of empathy",Angry
+"This bureaucratic nonsense is driving me insane",Angry
+"Their condescending attitude is unbearable",Angry
+"I'm furious about the wasted time and money",Angry
+"This dishonesty is absolutely revolting",Angry
+"They're being deliberately obstructive and hostile",Angry
+"This invasion of privacy makes me livid",Angry
+"I'm angry about the environmental destruction",Angry
+"Their hypocrisy is absolutely maddening",Angry
+"This manipulation and gaslighting is unforgivable",Angry
+"The weather today is partly cloudy",Neutral
+"I need to go to the grocery store",Neutral
+"The meeting is scheduled for 3 PM",Neutral
+"Please review the attached document",Neutral
+"The report is due next Friday",Neutral
+"I'll be working from home tomorrow",Neutral
+"The conference will be held virtually",Neutral
+"Please confirm your attendance",Neutral
+"The office hours are 9 AM to 5 PM",Neutral
+"The project deadline is next month",Neutral
+"Please submit your application by Monday",Neutral
+"The system will undergo maintenance tonight",Neutral
+"Traffic conditions are normal on Highway 101",Neutral
+"The store closes at 8 PM on weekdays",Neutral
+"Meeting room A is available for booking",Neutral
+"Please update your contact information",Neutral
+"The quarterly review will be conducted soon",Neutral
+"Standard operating procedures must be followed",Neutral
+"The temperature today reached 72 degrees",Neutral
+"Registration opens at 9 AM sharp",Neutral
+"The documentation has been updated accordingly",Neutral
+"Please proceed to the next checkpoint",Neutral
+"The inventory count is scheduled for Thursday",Neutral
+"All systems are operating within normal parameters",Neutral
+"The training session will cover basic protocols",Neutral
+"Please refer to section 4.2 of the manual",Neutral
+"The backup process completed successfully",Neutral
+"New policy takes effect starting next quarter",Neutral
+"The facility will be closed for renovations",Neutral
+"Please complete the required safety training",Neutral
+"The audit will begin on the first of next month",Neutral
+"Standard warranty terms apply to this product",Neutral
+"The software update is currently being installed",Neutral
+"Please verify your identity before proceeding",Neutral
+"The shipment is expected to arrive Tuesday",Neutral
+"All participants must sign the waiver form",Neutral
+"The database migration is scheduled for tonight",Neutral
+"Please follow the established checkout procedure",Neutral
+"The equipment calibration is due next week",Neutral
+"Standard business hours apply during holidays",Neutral
+"I'm terrified of what might happen",Fear
+"This situation makes me very anxious",Fear
+"I'm worried about the future",Fear
+"I feel scared and uncertain",Fear
+"This gives me chills down my spine",Fear
+"I'm afraid things will get worse",Fear
+"The thought of this terrifies me",Fear
+"I'm nervous about the outcome",Fear
+"This makes me feel vulnerable and helpless",Fear
+"I'm trembling with fear right now",Fear
+"What if everything goes wrong tomorrow?",Fear
+"The darkness scares me so much",Fear
+"I'm afraid I'll fail this important test",Fear
+"This medical diagnosis has me terrified",Fear
+"Flying in airplanes makes me panic",Fear
+"I'm scared of speaking in public",Fear
+"The thought of losing my job frightens me",Fear
+"I'm anxious about meeting new people",Fear
+"This financial crisis has me worried sick",Fear
+"I'm afraid of being alone in the dark",Fear
+"The thought of death keeps me awake at night",Fear
+"I'm terrified of heights and elevators",Fear
+"This storm is making me very anxious",Fear
+"I'm scared of what the test results might show",Fear
+"The strange noises upstairs frighten me",Fear
+"I'm afraid of losing my loved ones",Fear
+"This uncertainty about the future terrifies me",Fear
+"I'm nervous about the job interview tomorrow",Fear
+"The thought of failure paralyzes me with fear",Fear
+"I'm scared of making the wrong decision",Fear
+"This economic instability has me worried",Fear
+"I'm afraid of spiders and insects",Fear
+"The thought of surgery makes me panic",Fear
+"I'm terrified of being judged by others",Fear
+"This global situation fills me with dread",Fear
+"I'm scared of running out of money",Fear
+"The thought of aging frightens me deeply",Fear
+"I'm afraid of technology taking over",Fear
+"This climate change news is terrifying",Fear
+"I'm nervous about my children's safety",Fear
+"I can't believe this actually happened!",Surprise
+"What a shocking turn of events!",Surprise
+"I never expected this to occur",Surprise
+"This is completely unexpected!",Surprise
+"I'm amazed by this revelation",Surprise
+"What a surprising discovery!",Surprise
+"This caught me completely off guard",Surprise
+"I'm stunned by this news!",Surprise
+"Wow, this is absolutely incredible!",Surprise
+"I'm blown away by this surprise",Surprise
+"Never saw that plot twist coming!",Surprise
+"This outcome is beyond my wildest dreams",Surprise
+"What an unexpected gift, I'm speechless!",Surprise
+"I'm shocked by how well this turned out",Surprise
+"This sudden change left me speechless",Surprise
+"Incredible, I never thought this was possible",Surprise
+"What a remarkable coincidence this is!",Surprise
+"This surprise party blew my mind completely",Surprise
+"I'm astonished by this amazing discovery",Surprise
+"Such an unexpected but welcome surprise!",Surprise
+"I never imagined I would win this contest",Surprise
+"What a twist! Nobody predicted this ending",Surprise
+"I'm amazed by the sudden improvement",Surprise
+"This unexpected visitor made my day",Surprise
+"What a shocking revelation about my family history",Surprise
+"I'm stunned by this incredible transformation",Surprise
+"This sudden opportunity came out of nowhere",Surprise
+"What an amazing coincidence meeting you here!",Surprise
+"I'm surprised by how much I enjoyed this",Surprise
+"This unexpected compliment caught me off guard",Surprise
+"What a remarkable turn of events this is",Surprise
+"I'm amazed by this technological breakthrough",Surprise
+"This surprise announcement changed everything",Surprise
+"What an incredible stroke of luck!",Surprise
+"I'm shocked by this generous donation",Surprise
+"This unexpected solution is brilliant",Surprise
+"What a surprising reaction from the audience",Surprise
+"I'm astonished by this scientific discovery",Surprise
+"This sudden weather change is remarkable",Surprise
+"What an unexpected but delightful surprise!",Surprise
