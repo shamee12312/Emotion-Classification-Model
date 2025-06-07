@@ -2,6 +2,7 @@
 
 complete machine learning pipeline for **text-based emotion detection**, supporting real-time predictions, batch analysis, and multiple model evaluation.  
 ➡️ **Live Demo**: [https://emotion-detector-shamee12312.replit.app/](https://emotion-detector-shamee12312.replit.app/)
+➡️ **Video Link**: [https://drive.google.com/file/d/1W5XDovY0fKWQwnl_BucBhfYb9rM_TY9T/view?usp=sharing]
 
 A comprehensive machine learning pipeline for text-based emotion classification using multiple algorithms and evaluation metrics.
 
